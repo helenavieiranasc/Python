@@ -16,7 +16,6 @@ Minha resolução dos exercícios de Python 3 propostos pelo professor Gustavo G
 ## 📂 Estrutura de Pastas
 
 ```text
-/python
   ├── /mundo-1
   │   └── /aula-5 -> 10
   ├── /mundo-2
